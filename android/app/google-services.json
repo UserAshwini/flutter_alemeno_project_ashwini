@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065746435600",
+    "project_id": "feeding-game-2ad54",
+    "storage_bucket": "feeding-game-2ad54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065746435600:android:904169a337c9f14a614495",
+        "android_client_info": {
+          "package_name": "com.example.flutter_alememo_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoZCQdhzNoVU-a6ya6CMreRchrBmmgAcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
